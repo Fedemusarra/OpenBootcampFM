@@ -1,2 +1,2 @@
 # OpenBootcamp
-Proyecto coursera
+Ejercicios curso OpenBootcamp
