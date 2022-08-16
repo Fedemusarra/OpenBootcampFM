@@ -1,2 +1,2 @@
-# ProyectoHoteles
+# OpenBootcamp
 Proyecto coursera
