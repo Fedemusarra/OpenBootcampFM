@@ -1,0 +1,29 @@
+/*No olvidarse de ajustar el padding y margin que viene por defecto*/
+* {
+  padding: 0;
+  margin: 0;
+}
+.imgPp {
+  width: 30vw;
+  opacity: 0.3;
+}
+/*vw es viewport with que es el 100% que ocupa*/
+
+.imgPp:hover {
+  opacity: 1;
+}
+
+.imgGal {
+  width: 300px;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.imgGal:hover {
+  opacity: 0.4;
+  cursor: pointer;
+}
